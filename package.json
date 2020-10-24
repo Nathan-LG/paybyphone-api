@@ -1,0 +1,19 @@
+{
+  "name": "paybyphone-api",
+  "version": "0.0.1",
+  "description": "PayByPhone API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nathan-LG/paybyphone-api.git"
+  },
+  "author": "Nathan Le Granvallet (nathan@legranvallet.fr)",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/Nathan-LG/paybyphone-api/issues"
+  },
+  "homepage": "https://github.com/Nathan-LG/paybyphone-api#readme"
+}
