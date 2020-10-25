@@ -15,5 +15,12 @@
   "bugs": {
     "url": "https://github.com/Nathan-LG/paybyphone-api/issues"
   },
-  "homepage": "https://github.com/Nathan-LG/paybyphone-api#readme"
+  "homepage": "https://github.com/Nathan-LG/paybyphone-api#readme",
+  "dependencies": {
+    "axios": "^0.21.0",
+    "logging": "^3.2.0",
+    "lowdb": "^1.0.0",
+    "qs": "^6.9.4",
+    "ws": "^7.3.1"
+  }
 }
